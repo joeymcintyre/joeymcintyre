@@ -9,27 +9,30 @@ I’m always looking for opportunities to apply my skills in real-world projects
 🔗 Connect with Me
 
 
-
-
-
-
-
-
-
-
-⚡ Languages and Tools: 
-<p align="center"> <!-- Programming Languages --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/> <!-- Hardware / HDL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" alt="Verilog" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" alt="VHDL" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="45" height="45"/> <!-- Simulation & EDA Tools --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spice/spice-original.svg" alt="SPICE / PSpice / LTSpice" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" alt="AutoCAD" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" alt="SolidWorks" width="45" height="45"/> <!-- Microcontrollers / Hardware Platforms --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arm/arm-original.svg" alt="ARM Cortex-M" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ti/ti-original.svg" alt="TI MSP432" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="45" height="45"/> <!-- Software & Development Tools --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="45" height="45"/> <!-- Data Science / Misc --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="45" height="45"/> </p>
-
 📂 Highlighted Projects:
 
-🔌 3D Spatial Mapping System: 
- – Embedded system using a ToF sensor, stepper motor, and UART communication to generate 3D models in Python/Open3D.
+- 🛰️ 3D Spatial Mapping System (COMPENG 2DX3 Final Project)
+ - Embedded system using a VL53L1X Time-of-Flight sensor, stepper motor, and MSP432 ARM Cortex-M4F to generate indoor 3D maps. Data sent over UART and visualized in Python/Open3D.
 
-⚡ 3-Bit DAC
- – Designed, simulated, and tested a digital-to-analog converter with performance analysis.
+- 🐍 Snake Game (COMPENG 2SH4 Project)
+ - Classic snake game built in C++ with object-oriented design. Implemented custom data structures (objPos, objPosArrayList) and finite state machine (FSM) logic for gameplay.
 
-🔐 CMOS XOR Gate
- – Implemented a 12-transistor XOR gate using CD4007 ICs, with schematic-to-physical pin mapping.
+- 🎮 Programming Project Assignments (COMPENG 2SH4 – PPA1, PPA2, PPA3)
 
-🖥️ Snake Game
- – Console-based game developed in C++ with object-oriented design.
+ - PPA1: Marquee display with rolling ASCII animation and asynchronous input.
+
+ - PPA2: 20×10 ASCII game board with WASD-controlled player and FSM movement.
+
+ - PPA3: Scavenger hunt word game with random placement, collisions, and memory-safe object management.
+
+- ⚡ 3-Bit DAC (ELECENG 2EI4 Project)
+ - Designed, simulated, and built a 3-bit digital-to-analog converter with VFS = 5V. Measured gain error, offset error, and differential non-linearity.
+
+- 🔐 CMOS XOR Gate (ELECENG 2EI4 Project)
+ - Built a 12-transistor CMOS XOR gate using CD4007 ICs. Completed full schematic-to-pin mapping, verified functionality with the Analog Discovery 3.
+
+- 🔌 DC Power Supply (ELECENG 2EI4 Project)
+ - Designed a regulated 3.0 V ± 0.1 V power supply from a 120 V AC source. Included transformer design, rectification, filtering, and regulation stages.
+
+- ⚙️ Ideal Voltage-Controlled Switches (ELECENG 2EI4 Project)
+ - Implemented and analyzed Type-1 and Type-2 MOSFET-based ideal switches, comparing simulated and measured performance.
