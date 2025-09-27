@@ -10,5 +10,12 @@ I’m always looking for opportunities to apply my skills in real-world projects
 
 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://joeymcintyre.github.io/Portfolio-Website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mcintyre-3bb156386/)
+<p align="left">
+   <a href="https://joeymcintyre.github.io/Portfolio-Website/">
+      <img alt="My Website" title="See my Portfolio!" src="https://custom-icon-badges.demolab.com/badge/-My%20Portfolio-purple?style=for-the-badge&logo=browser&logoColor=white"/></a> 
+   <a href="https://github.com/user-attachments/files/joey-mcintyre-resume.pdf">
+      <img alt="My Resume" title="Download my Resume!" src="https://custom-icon-badges.demolab.com/badge/-Resume-darkred?style=for-the-badge&logo=download&logoColor=white"/></a>
+   <a href="https://www.linkedin.com/in/joseph-mcintyre-3bb156386/">
+      <img alt="My Linkedin" title="Check out my Linkedin!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <img alt="My Location" src="https://custom-icon-badges.demolab.com/badge/Hamilton-CAN-darkred?style=for-the-badge&logo=location&logoColor=white"/></a> 
+</p>
