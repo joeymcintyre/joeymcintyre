@@ -9,6 +9,7 @@ I’m always looking for opportunities to apply my skills in real-world projects
 ### Currently Searching for Summer 2025 Internships!
 
 🔗 Connect with Me
+
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://joeymcintyre.github.io/Portfolio-Website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mcintyre-3bb156386/)
 ![Location](https://img.shields.io/badge/Hamilton,%20Ontario,%20Canada-grey?style=for-the-badge&logo=googlemaps&logoColor=white)
