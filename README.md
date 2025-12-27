@@ -13,7 +13,7 @@ I’m always looking for opportunities to apply my skills in real-world projects
 <p align="left">
    <a href="https://joeymcintyre.github.io/Portfolio-Website/">
       <img alt="My Website" title="See my Portfolio!" src="https://custom-icon-badges.demolab.com/badge/-My%20Portfolio-purple?style=for-the-badge&logo=browser&logoColor=white"/></a> 
-   <a href="https://github.com/user-attachments/files/joey-mcintyre-resume.pdf">
+   <a href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:373a40c5-470c-40a0-a409-9cc26dfdae54">
       <img alt="My Resume" title="Download my Resume!" src="https://custom-icon-badges.demolab.com/badge/-Resume-darkred?style=for-the-badge&logo=download&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/joseph-mcintyre-3bb156386/">
       <img alt="My Linkedin" title="Check out my Linkedin!" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
